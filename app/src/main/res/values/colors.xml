@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#607D8B</color>
+    <color name="colorPrimaryDark">#455A64</color>
+    <color name="colorAccent">#9E9E9E</color>
+    <color name="colorButtonPlay">#263238</color>
+    <color name="colorButtonPlayPressed">#546E7A</color>
+    <color name="colorButtonShuffle">#37474F</color>
+    <color name="colorButtonShufflePressed">#607D8B</color>
+    <color name="colorButtonText">#FFFFFF</color>
+    <color name="colorTranslationBackground">#E0E0E0</color>
+    <color name="colorEnglishBackground">#BDBDBD</color>
+    <color name="colorVerticalLine">#9E9E9E</color>
+    <color name="colorPrimaryText">#212121</color>
+    <color name="colorSecondaryText">#727272</color>
+</resources>

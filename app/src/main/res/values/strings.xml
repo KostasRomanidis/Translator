@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Translator</string>
+    <string name="btn_play">Play</string>
+    <string name="btn_shuffle">Shuffle</string>
+    <string name="spinner_header">Please Select Language</string>
+    <string name="original_word">Original Word:</string>
+    <string name="translation">Translation:</string>
+</resources>
